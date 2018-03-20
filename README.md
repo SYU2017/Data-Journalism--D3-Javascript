@@ -1,6 +1,4 @@
-# D3
-
-  Data Journalism and D3
+# Data Journalism and D3
   Background:
    *Welcome to the newsroom! You're tasked with analyzing the current trends shaping people's lives, 
    as well as creating charts, graphs and interactives to help readers understand the findings.
